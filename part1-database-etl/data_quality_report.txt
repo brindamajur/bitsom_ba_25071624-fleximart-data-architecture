@@ -1,0 +1,23 @@
+FlexiMart Data Quality Report
+---------------------------------
+
+Number of records processed per file:
+  Customers processed: 26
+  Products processed: 20
+  Sales processed: 41
+
+Number of duplicates removed:
+  Customer duplicates removed: 1
+  Product duplicates removed: 0
+  Sales duplicates removed: 1
+
+Number of missing values handled:
+  Missing customer emails removed: 5
+  Missing product prices removed: 3
+  Missing sales FK rows removed: 5
+
+Number of records loaded successfully:
+  Customers loaded: 20
+  Products loaded: 17
+  Orders loaded: 24
+  Order items loaded: 24
