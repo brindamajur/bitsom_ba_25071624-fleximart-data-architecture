@@ -1,7 +1,7 @@
 FlexiMart Data Architecture Project
 
 Student Name: Brinda Majur
-Student ID: BA-25071624
+Student ID: BITSOM-BA-25071624
 Email: brindamajur247@gmail.com
 Date: 08-01-2026
 
